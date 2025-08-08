@@ -2,7 +2,7 @@
 
 import { AddToCartActionPage } from "../actions/addToCartActionPage";
 
-
+/// Test suite for adding items to the cart
 describe('Add to cart test suite', () => {
 
   before(() => {
